@@ -459,7 +459,7 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 **Diae**
 - 💼 *Administrateur Systèmes & Cloud*
 - 🎓 *Certifié Microsoft SC-900/MD-102*
-- 💼 [LinkedIn][https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz]
+- 💼 *Linkedin* https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz
 
 ---
 
