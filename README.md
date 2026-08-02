@@ -17,7 +17,6 @@
 
 **Architecture complète Microsoft 365 / Entra ID / Intune pour la gestion, la sécurisation et l'automatisation du cycle de vie des postes Windows 11 en mode Zéro Trust.**
 
-[📖 Documentation](#-documentation) • [🏗️ Architecture](#%EF%B8%8F-architecture) • [🛠️ Déploiement](#%EF%B8%8F-d%C3%A9ploiement) • [🧪 Validation](#-validation) • [📸 Screenshots](#-screenshots)
 
 </div>
 
@@ -460,7 +459,7 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 **Diae**
 - 💼 *Administrateur Systèmes & Cloud*
 - 🎓 *Certifié Microsoft SC-900/MD-102*
-- 💼 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz/))
+- 💼 [LinkedIn][https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz]
 
 ---
 
