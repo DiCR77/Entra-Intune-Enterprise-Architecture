@@ -1,21 +1,11 @@
 <div align="center">
 
-# 🌐 Entra-Intune-Enterprise-Architecture
-
-### Lab de Déploiement Modern Workplace & Zéro Trust
-
-[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-E5-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365)
-[![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/services/active-directory/)
-[![Intune](https://img.shields.io/badge/Intune-MDM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/mem/intune/)
-[![Windows 11](https://img.shields.io/badge/Windows%2011-Endpoint-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
-[![MD-102](https://img.shields.io/badge/MD--102-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/learn/certifications/exams/md-102)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-
+# 🌐 Enterprise-Cloud-Deployment-Lab
 
 ![banner](images/banner.png)
 
 
-**Architecture complète Microsoft 365 / Entra ID / Intune pour la gestion, la sécurisation et l'automatisation du cycle de vie des postes Windows 11 en mode Zéro Trust.**
+### **Architecture complète Microsoft 365 / Entra ID / Intune pour la gestion, la sécurisation et l'automatisation du cycle de vie des postes Windows 11 en mode Zéro Trust.**
 
 
 </div>
