@@ -372,7 +372,7 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 📋 Profil Autopilot
 ```
-[images/Autopilot.png]
+[(images/Conformité.png)]
 ```
 
 ### 🛡️ Accès Conditionnel
