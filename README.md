@@ -27,12 +27,12 @@
 - [📌 Présentation](#-pr%C3%A9sentation)
 - [🏗️ Architecture & Flux de Gestion](#%EF%B8%8F-architecture--flux-de-gestion)
 - [🛠️ Étapes de Mise en Œuvre](#%EF%B8%8F-%C3%A9tapes-de-mise-en-%C5%93uvre)
-  - [1. Infrastructure Cloud & Identité](#1-infrastructure-cloud--identit%C3%A9)
-  - [2. Provisioning & Enrôlement Automatisé](#2-provisioning--enr%C3%B4lement-automatis%C3%A9)
-  - [3. Architecture Zéro Trust](#3-architecture-z%C3%A9ro-trust)
-  - [4. Sécurité du Poste de Travail](#4-s%C3%A9curit%C3%A9-du-poste-de-travail)
-  - [5. Gestion & Déploiement d'Applications](#5-gestion--d%C3%A9ploiement-dapplications)
-  - [6. Patch Management & Cycle de Vie](#6-patch-management--cycle-de-vie)
+  - [1. Infrastructure Cloud & Identité]
+  - [2. Provisioning & Enrôlement Automatisé]
+  - [3. Architecture Zéro Trust]
+  - [4. Sécurité du Poste de Travail]
+  - [5. Gestion & Déploiement d'Applications]
+  - [6. Patch Management & Cycle de Vie]
 - [🧪 Validation & PoC](#-validation--poc)
 - [📸 Screenshots](#-screenshots)
 - [🛡️ Matrice de Conformité](#%EF%B8%8F-matrice-de-conformit%C3%A9)
