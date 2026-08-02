@@ -365,27 +365,23 @@ Dernière vérification: 01-08-2026 14:32
 
 > *Les captures d'écran ci-dessous illustrent les étapes clés du déploiement.*
 
-### 🖥️ Interface Intune - Vue d'ensemble
-
-[Capture: Tableau de bord Intune avec appareils conformes]
-
-
 ### 📋 Profil Autopilot
+
+![Autopilot](images/Autopilot.png)
+
+
+### 🛡️ Accès Conditionnel
+
+![Détails de la stratégie](images/accésconditionel.png)
+
+### ✅ Statut de Conformité
 
 ![La Conformité](images/Conformité.png)
 
 
-### 🛡️ Accès Conditionnel
-```
-[<img width="838" height="656" alt="image" src="https://github.com/Entra-Intune-Enterprise-Architecture/images/Autopilot.png" />]
-```
+### 🖥️ Application deployé
 
-### ✅ Statut de Conformité
-```
-![<img width="1690" height="696" alt="image" src="https://github.com/user-attachments/assets/3b58d9be-84bf-414f-97cd-90532f01681b" />
-]()
-
-```
+![Les Applications](images/APP.png)
 
 ---
 
