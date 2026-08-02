@@ -1,0 +1,12 @@
+{
+  "displayName": "AP_WIN11_UserDriven",
+  "description": "Profil de déploiement Autopilot User-Driven Entra ID Join",
+  "deviceType": "windows11",
+  "deploymentMode": "userDriven",
+  "joinType": "azureADJoined",
+  "outOfBoxExperienceSettings": {
+    "hidePrivacySettings": true,
+    "hideEULA": true,
+    "userType": "standard"
+  }
+}
