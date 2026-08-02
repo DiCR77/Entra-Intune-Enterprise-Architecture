@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Enterprise-Cloud-Deployment-Lab
+# 🌐 	M365-Modern-Workplace-Deployment-Lab
 
 ![banner](images/banner.png)
 
@@ -454,6 +454,6 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 
 ### ⭐ Si ce projet vous a été utile, n'hésitez pas à mettre une étoile !
 
-**[⬆ Retour en haut](#-enterprise-cloud-deployment-lab)**
+**[⬆ Retour en haut](#-M365-Modern-Workplace-Deployment-Lab)**
 
 </div>
