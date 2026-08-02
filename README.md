@@ -457,11 +457,10 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 
 ## 👤 Auteur
 
-**[Ton Nom]**
+**Diae**
 - 💼 *Administrateur Systèmes & Cloud*
 - 🎓 *Certifié Microsoft MD-102*
-- 🐙 [GitHub](https://github.com/ton-profil)
-- 💼 [LinkedIn](https://linkedin.com/in/ton-profil)
+- 💼 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz/))
 
 ---
 
