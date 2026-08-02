@@ -1,0 +1,8 @@
+{
+  "displayName": "COMP_WIN11_ExigenceSecurite",
+  "bitLockerEnabled": true,
+  "secureBootEnabled": true,
+  "firewallEnabled": true,
+  "defenderEnabled": true,
+  "osMinimumVersion": "10.0.22621"
+}
