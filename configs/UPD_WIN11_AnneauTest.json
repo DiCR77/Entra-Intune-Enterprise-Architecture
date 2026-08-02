@@ -1,0 +1,6 @@
+{
+  "displayName": "UPD_WIN11_AnneauTest",
+  "qualityUpdateDeferralPeriodInDays": 0,
+  "featureUpdateDeferralPeriodInDays": 2,
+  "automaticUpdateMode": "autoInstallAndRebootAtSchedule"
+}
