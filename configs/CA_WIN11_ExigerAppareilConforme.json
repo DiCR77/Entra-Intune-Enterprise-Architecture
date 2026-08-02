@@ -1,0 +1,13 @@
+{
+  "displayName": "CA_WIN11_ExigerAppareilConforme",
+  "state": "enabled",
+  "conditions": {
+    "users": { "includeUsers": ["All"] },
+    "applications": { "includeApplications": ["All"] },
+    "platforms": { "includePlatforms": ["windows"] }
+  },
+  "grantControls": {
+    "operator": "OR",
+    "builtInControls": ["compliantDevice"]
+  }
+}
