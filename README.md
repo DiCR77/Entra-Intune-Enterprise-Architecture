@@ -372,8 +372,7 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 📋 Profil Autopilot
 ```
-[<img width="940" height="920" alt="image" src="https://github.com/user-attachments/assets/1797f36e-2f08-466f-80a8-4f9bb832b08a" />
-]
+[images/Autopilot.png]
 ```
 
 ### 🛡️ Accès Conditionnel
