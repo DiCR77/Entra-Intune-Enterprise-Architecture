@@ -366,14 +366,14 @@ Dernière vérification: 01-08-2026 14:32
 > *Les captures d'écran ci-dessous illustrent les étapes clés du déploiement.*
 
 ### 🖥️ Interface Intune - Vue d'ensemble
-```
+
 [Capture: Tableau de bord Intune avec appareils conformes]
-```
+
 
 ### 📋 Profil Autopilot
-```
+
 ![La Conformité](images/Conformité.png)
-```
+
 
 ### 🛡️ Accès Conditionnel
 ```
