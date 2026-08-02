@@ -11,9 +11,9 @@
 [![MD-102](https://img.shields.io/badge/MD--102-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/learn/certifications/exams/md-102)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-<p align="center">
+
 ![banner](images/banner.png)
-</p>
+
 
 **Architecture complète Microsoft 365 / Entra ID / Intune pour la gestion, la sécurisation et l'automatisation du cycle de vie des postes Windows 11 en mode Zéro Trust.**
 
