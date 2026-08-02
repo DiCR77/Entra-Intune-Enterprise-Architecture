@@ -377,8 +377,7 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 🛡️ Accès Conditionnel
 ```
-[<img width="838" height="656" alt="image" src="https://github.com/user-attachments/images/Autopilot.png" />
-]
+[<img width="838" height="656" alt="image" src="https://github.com/Entra-Intune-Enterprise-Architecture/images/Autopilot.png" />]
 ```
 
 ### ✅ Statut de Conformité
