@@ -351,7 +351,7 @@ Le déploiement a été validé sur des **machines virtuelles Windows 11 Pro/Ent
 ```
 Appareil: W11-VM-TEST-01
 Statut: ✅ Conforme (Compliant)
-Dernière vérification: 2024-XX-XX 14:32 UTC
+Dernière vérification: 01-08-2026 14:32 
 
 ├─ Conformité: PASS
 ├─ Configuration: PASS  
@@ -459,7 +459,7 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 
 **Diae**
 - 💼 *Administrateur Systèmes & Cloud*
-- 🎓 *Certifié Microsoft MD-102*
+- 🎓 *Certifié Microsoft SC-900/MD-102*
 - 💼 [LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/diaedarraz/))
 
 ---
