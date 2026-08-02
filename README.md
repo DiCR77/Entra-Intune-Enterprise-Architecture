@@ -447,7 +447,6 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 - [🔷 Microsoft Entra ID Documentation](https://docs.microsoft.com/azure/active-directory/)
 - [🖥️ Windows Autopilot Documentation](https://docs.microsoft.com/windows/deployment/windows-autopilot/)
 - [🛡️ Microsoft Zéro Trust Architecture](https://www.microsoft.com/security/blog/zero-trust/)
-- [🎓 Examen MD-102](https://docs.microsoft.com/learn/certifications/exams/md-102)
 - [📦 Win32 Content Prep Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
 
 ---
