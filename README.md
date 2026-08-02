@@ -362,7 +362,7 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 🛡️ Accès Conditionnel
 
-![Détails de la stratégie](images/accésconditionel.png)
+![Détails de la stratégie](images/accèsconditionnel.png)
 
 ### ✅ Statut de Conformité
 
@@ -446,7 +446,7 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 **Diae**
 - 💼 *Administrateur Systèmes & Cloud*
 - 🎓 *Certifié Microsoft SC-900/MD-102*
-- 💼 *Linkedin* https://www.linkedin.com/in/diaedarraz
+- 💼 [LinkedIn](https://www.linkedin.com/in/diaedarraz)
 
 ---
 
@@ -454,6 +454,6 @@ Invoke-DeviceAction -DeviceId $deviceId -Action syncDevice
 
 ### ⭐ Si ce projet vous a été utile, n'hésitez pas à mettre une étoile !
 
-**[⬆ Retour en haut](#-entra-intune-enterprise-architecture)**
+**[⬆ Retour en haut](#-enterprise-cloud-deployment-lab)**
 
 </div>
