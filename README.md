@@ -372,17 +372,21 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 📋 Profil Autopilot
 ```
-[Capture: Configuration du profil AP_WIN11_UserDriven]
+[<img width="940" height="920" alt="image" src="https://github.com/user-attachments/assets/1797f36e-2f08-466f-80a8-4f9bb832b08a" />
+]
 ```
 
 ### 🛡️ Accès Conditionnel
 ```
-[Capture: Règle CA_WIN11_ExigerAppareilConforme]
+[<img width="838" height="656" alt="image" src="https://github.com/user-attachments/assets/67222699-d5a4-4c40-b391-daa2c29cdbb8" />
+]
 ```
 
 ### ✅ Statut de Conformité
 ```
-[Capture: Appareil marqué Compliant dans Intune]
+![<img width="1690" height="696" alt="image" src="https://github.com/user-attachments/assets/3b58d9be-84bf-414f-97cd-90532f01681b" />
+]()
+
 ```
 
 ---
