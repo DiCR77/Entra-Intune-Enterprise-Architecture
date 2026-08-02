@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <img src=![banner](images/banner.png)" width="120" alt="Architecture Cloud">
+![banner](images/banner.png)
 </p>
 
 **Architecture complète Microsoft 365 / Entra ID / Intune pour la gestion, la sécurisation et l'automatisation du cycle de vie des postes Windows 11 en mode Zéro Trust.**
