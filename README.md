@@ -377,7 +377,7 @@ Dernière vérification: 01-08-2026 14:32
 
 ### 🛡️ Accès Conditionnel
 ```
-[<img width="838" height="656" alt="image" src="https://github.com/user-attachments/assets/67222699-d5a4-4c40-b391-daa2c29cdbb8" />
+[<img width="838" height="656" alt="image" src="https://github.com/user-attachments/images/Autopilot.png" />
 ]
 ```
 
